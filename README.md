@@ -1,1 +1,3 @@
 # Requirements-Engineering-and-Software-Modelling
+# E-Rubric System
+The E-Rubric System is a computerized tool designed to streamline assignment management and grading for lecturers and students. It allows course coordinators to create and upload rubrics, while lecturers can upload assignments, set deadlines, grade submissions, and provide feedback. The system includes features like plagiarism and grammar checkers, peer review capabilities, and deadline alerts for students. It aims to standardize grading across lecturers and provide detailed grade visibility for students. Additionally, the system automates the calculation of peer review marks.
